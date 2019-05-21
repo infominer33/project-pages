@@ -28,6 +28,13 @@ category: indieweb
   <time class="dt-published" datetime="2019-05-21">May 05, 2019</time></a>
 </div>
 
+<a href="https://brid.gy/publish/twitter"></a>
+
+We'll test this, also:
+
+```
+<a href="https://brid.gy/publish/twitter"></a>
+```
  
 
 ## Welcome!
