@@ -99,6 +99,7 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EeCNlB7v08I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [IndieAuth](https://indieweb.org/IndieAuth)
+* [https://indieauth.com/pgp](https://indieauth.com/pgp)
 * [IndieAuth with YubiKey](https://herestomwiththeweather.com/2017/09/24/indieauth-with-yubikey/)
 * [https://indielogin.com/setup](https://indielogin.com/setup)
 * [tokens.indieauth.com/](https://tokens.indieauth.com/)
