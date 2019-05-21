@@ -3,7 +3,7 @@ layout: post
 title: Indieweb Resources
 date: "2019-05-19"
 permalink: resources/
-tags: indieweb github-pages resources
+tags: indieweb github-pages resources  jekyll static-sites
 subtitle: To Become An Extensive Collection
 ---
 
