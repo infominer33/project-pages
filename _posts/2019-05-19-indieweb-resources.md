@@ -26,12 +26,6 @@ I cover most anything you'd need to get started with GitHub Pages in:
 * [infominer.id/web-work/github-pages-starter-pack](https://infominer.id/web-work/github-pages-starter-pack)
 
 
-## Playing with the Indieweb
-
-[A presentation at Northern Ireland Developer Conference](https://noti.st/srushe/7D5URN) in June 2018 in Belfast, UK by Stephen Rushe.
-
-<p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
-
 ## Taking Back Your Content
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
@@ -41,6 +35,12 @@ I cover most anything you'd need to get started with GitHub Pages in:
 At the end of that video, we are directed to [Your First Webmention](https://aaronparecki.com/2018/06/30/11/your-first-webmention). 
 
 ## Resources
+[A presentation at Northern Ireland Developer Conference](https://noti.st/srushe/7D5URN) in June 2018 in Belfast, UK by Stephen Rushe.
+
+^^^ There is a great set of indieweb resources. 
+
+<p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
+
 * [Indieweb Github Repositories](https://infominer.id/indieweb/github/)
 * [indieweb.org](https://indieweb.org)
 * [https://brid.gy](https://brid.gy)
@@ -52,7 +52,7 @@ At the end of that video, we are directed to [Your First Webmention](https://aar
 
 ## [herestomwiththeweather.com](https://herestomwiththeweather.com) 
 
-I got the Indieweb Jekyll Theme, here:
+I got the Indieweb Jekyll Theme (^^^ this site uses), here:
 
 * [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
 
