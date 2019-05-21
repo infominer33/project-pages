@@ -5,9 +5,21 @@ date: "2019-05-19"
 permalink: resources/
 ---
 
-I got this Indieweb Jekyll Theme, here:
+![](https://imgur.com/ahnVZ9tl.png)
 
-* [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
+I was using [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb), but ran into some bugs:
+
+[![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
+
+In the meantime, I figured I'd test out this awesome [projects-pages](https://github.com/projectpages/project-pages/wiki) theme.
+
+I'm only guessing that some indieweb folk might appreciate:
+
+```
+Project-Pages also includes advanced layouts for the coding scientist. MATLAB and Jupyter layouts provide a framework for direct to post functionality. Surface and Projector layouts provide 3D visualization methods.
+```
+
+<p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
 
 I cover most anything you'd need to get started with GitHub Pages in:
 
@@ -29,9 +41,13 @@ At the end of that video, we are directed to [Your First Webmention](https://aar
 * [calumryan/indieweb-guides](https://github.com/calumryan/indieweb-guides)
 * [Tom Brown and Manton Reece An Introduction to Indieweb](https://www.plutopia.io/2018/12/02/tom-brown-and-manton-reece-an-introduction-to-indieweb/)
 
-I also found another site that uses this theme:
 
 ## [herestomwiththeweather.com](https://herestomwiththeweather.com) 
+
+I got the Indieweb Jekyll Theme, here:
+
+* [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
+
 
   * [Jekyll-Indieweb and Micropub](https://herestomwiththeweather.com/2017/11/27/jekyll-indieweb-and-micropub/)
   * [favorite an indieweb post with twitter](https://herestomwiththeweather.com/2016/09/26/you-can-favorite-an-indieweb-post-with-twitter/)
