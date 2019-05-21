@@ -3,6 +3,8 @@ layout: post
 title: "Indieweb Github Repositories"
 description: "A list of every indieweb related GitHub repositories I can find."
 date: "2019-05-19"
+tags: indieweb github-pages resources
+subtitle: A growing list of indieweb-related GitHub repositories
 permalink: github/
 ---
 

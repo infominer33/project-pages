@@ -3,6 +3,8 @@ layout: post
 title: Indieweb Resources
 date: "2019-05-19"
 permalink: resources/
+tags: indieweb github-pages resources
+subtitle: To Become An Extensive Collection
 ---
 
 ![](https://imgur.com/ahnVZ9tl.png)
