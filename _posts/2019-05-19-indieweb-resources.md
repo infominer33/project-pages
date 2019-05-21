@@ -71,6 +71,10 @@ I'm excited too because Tom was at the [IIW where RWoT was first presented](http
 
 If you're been on this site for very long, you'll notice that I'm quite passionate about [Decentralized Identity](https://infominer.id/DIDecentralized).
 
+## Web Apps
+
+* [https://micropublish.net/](https://micropublish.net/)
+
 ## Static Sites
 
 * [Static Site Generators & the IndieWeb](https://www.growdigital.org/posts/static-site-generators-the-indieweb/)
