@@ -15,9 +15,7 @@ In the meantime, I figured I'd test out this awesome [projects-pages](https://gi
 
 I'm only guessing that some indieweb folk might appreciate:
 
-```
-Project-Pages also includes advanced layouts for the coding scientist. MATLAB and Jupyter layouts provide a framework for direct to post functionality. Surface and Projector layouts provide 3D visualization methods.
-```
+> Project-Pages also includes advanced layouts for the coding scientist. MATLAB and Jupyter layouts provide a framework for direct to post functionality. Surface and Projector layouts provide 3D visualization methods.
 
 <p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
 
