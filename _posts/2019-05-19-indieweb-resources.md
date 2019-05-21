@@ -35,9 +35,7 @@ I cover most anything you'd need to get started with GitHub Pages in:
 <div class="h-entry">
   <ul><li><a class="u-in-reply-to" href="https://aaronparecki.com/2018/12/15/14/indieweb">https://aaronparecki.com/2018/12/15/14/indieweb</a></li></ul>
 
-  <p class="e-content"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-  <p class="e-content">At the end of that video, we are directed to <a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Your First Webmention</a>. </p>
+  <p class="e-content"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>At the end of that video, we are directed to <a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Your First Webmention</a>. </p>
 </div>
 
 
