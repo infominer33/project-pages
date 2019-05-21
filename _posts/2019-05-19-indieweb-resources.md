@@ -31,6 +31,10 @@ I cover most anything you'd need to get started with GitHub Pages in:
 
 ## Taking Back Your Content
 
+<div class="h-card">
+	<img src="https://infominer.id/indieweb/infominer.gif" class="u-photo" width="40">
+	<a href="https://infominer.id" class="u-url p-name">InfoMine ⧉</a>
+</div>	
 
 <div class="h-entry">
   <ul><li><a class="u-in-reply-to" href="https://aaronparecki.com/2018/12/15/14/indieweb">https://aaronparecki.com/2018/12/15/14/indieweb</a></li></ul>

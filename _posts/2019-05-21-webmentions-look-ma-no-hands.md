@@ -12,6 +12,13 @@ category: indieweb
 
 ## Edit-Test
 
+
+<div class="h-card">
+	<img src="https://infominer.id/indieweb/infominer.gif" class="u-photo" width="40">
+	<a href="https://infominer.id" class="u-url p-name">InfoMine ⧉</a>
+</div>	
+
+
 <div class="h-entry">
   <li><a class="u-in-reply-to"  href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
 
