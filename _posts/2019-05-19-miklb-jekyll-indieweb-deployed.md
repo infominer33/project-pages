@@ -27,6 +27,4 @@ I will offer you a word of caution, this project in its current state is finnick
 
 [![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
 
-Once I got it running (this time) I am building every change locally to make sure it's deploying, since even change of parenthesis in config.yml can break it.
-
-For the most part I'm just going to use this as a base for my IndieWeb Research, while I wait for Jekyll Indieweb v2.
+[**UPDATE**] I'm testing a different theme, since that one doesn't really work and I can always switch later, since I don't think I really need this [project-pages](https://github.com/projectpages/project-pages/) theme personally, but I'm pretty sure I know someone who does.
