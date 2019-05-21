@@ -10,12 +10,12 @@ url: "https://infominer.id"
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: "https://i.imgur.com/S1UmInX.gif"
 
 # Tertiary Parameters
 github_username:  infominer33
 project_repository: project-pages
-disqus_shortname: project-pages
+disqus_shortname: #project-pages
 g-analytics: UA-132558656-1
 altmetric: true
 
