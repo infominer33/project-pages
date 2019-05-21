@@ -6,7 +6,7 @@ url: "https://infominer.id"
 
 # Secondary Parameters
 baseurl: "/indieweb"
-header-img: "img/playing-with-indieweb.jpg"
+header-img: "img/playing-with-indieweb.png"
 headercolor: "#FFFFFF"
 logo: "https://infominer.id/indieweb/img/infominer.gif"
 
@@ -34,7 +34,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "https://infominer.id/indieweb/img/playing-with-indieweb.jpg"
+      header-img: "https://infominer.id/indieweb/img/playing-with-indieweb.png"
 
 # Prose Settings
 prose:
