@@ -32,7 +32,7 @@ I cover most anything you'd need to get started with GitHub Pages in:
 ## Taking Back Your Content
 
 <div class="h-card">
-	<img src="https://infominer.id/assets/img/info-lit3.png" class="u-photo" width="40">
+	<img src="https://infominer.id/indieweb/info.png" class="u-photo" width="40">
   <a href="https://infominer.id" class="u-url p-name">InfoMine ⧉</a>
 </div>	
 

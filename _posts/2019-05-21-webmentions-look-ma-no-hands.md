@@ -14,7 +14,7 @@ category: indieweb
 
 
 <div class="h-card">
-	<img src="https://infominer.id/assets/img/info-lit.png" class="u-photo" width="40">
+	<img src="https://infominer.id/indieweb/info.png" class="u-photo" width="40">
 	<a href="https://infominer.id" class="u-url p-name">InfoMine ⧉</a>
 </div>	
 
