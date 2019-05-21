@@ -1,4 +1,4 @@
-![](indieweb-willow-brugh.jpg)
+![](imgs/indieweb-willow-brugh.jpg)
 *Source: [Willow Brugh](https://www.flickr.com/photos/willowbl00/13199772894) - [BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 # GitHub-Pages IndieWeb Quickstart
