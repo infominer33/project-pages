@@ -4,8 +4,8 @@ description: "Indieweb Resource Index"
 url: "https://infominer.id"
 
 twitter:
-  image: "https://infominer.id/indieweb/img/playing-with-indieweb.png"
-og_image: "https://infominer.id/indieweb/img/playing-with-indieweb.png"
+  image: "https://infominer.id/indieweb/img/indieweb-willow-brugh.jpg"
+og_image: "https://infominer.id/indieweb/img/indieweb-willow-brugh.jpg"
   
 
 
@@ -39,7 +39,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/playing-with-indieweb.png"
+      header-img: "https://infominer.id/indieweb/img/indieweb-willow-brugh.jpg"
 
 # Prose Settings
 prose:
