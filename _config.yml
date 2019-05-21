@@ -10,7 +10,7 @@ url: "https://infominer.id"
 baseurl: "/indieweb"
 header-img: "img/playing-with-indieweb.png"
 headercolor: "#FFFFFF"
-logo: "https://infominer.id/project-pages/info.gif"
+logo: "https://infominer.id/indieweb/info.gif"
 
 # Tertiary Parameters
 github_username:  infominer33
@@ -41,7 +41,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'https://infominer.id/project-pages/'
+  siteurl: 'https://infominer.id/indieweb/'
   ispp: true
   media: 'img'
   metadata:
