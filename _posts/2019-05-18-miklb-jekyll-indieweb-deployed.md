@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Jekyll Indieweb Deployed!"
+description: Previously this site was an implementation of miklb/jekyll-indieweb
 date:   "2019-05-19"
 category: indieweb 
 og_image: https://infominer.id/indieweb/indieweb-willow-brugh.jpg
 tags: indieweb github jekyll depreciated
-subtitle: A growing list of indieweb-related GitHub repositories
+subtitle: Previously this site was an implementation of miklb/jekyll-indieweb
 ---
 
 [**UPDATE**] I'm testing a different theme, since that one doesn't really work and I can always switch later, since I don't think I really need this [project-pages](https://github.com/projectpages/project-pages/) theme personally, but I'm pretty sure I know someone who does.
