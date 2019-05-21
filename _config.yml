@@ -3,15 +3,10 @@ title: "GitHub Pages for an Indyweb"
 description: "Indieweb Resource Index"
 url: "https://infominer.id"
 
-twitter:
-  image: "https://infominer.id/indieweb/img/indieweb-willow-brugh.jpg"
-og_image: "https://infominer.id/indieweb/img/indieweb-willow-brugh.jpg"
-  
-
 
 # Secondary Parameters
 baseurl: "/indieweb"
-header-img: "img/playing-with-indieweb.png"
+header-img: "img/indieweb-willow-brugh.jpg"
 headercolor: "#FFFFFF"
 logo: "https://infominer.id/indieweb/img/infominer.gif"
 

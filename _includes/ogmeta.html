@@ -1,12 +1,12 @@
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/{{ page.url }}" />
-<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
 <!---twitter card-->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@infominer33">
-<meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}/{{ page.url }}" />
+<meta name="twitter:site" content="infominer33">
+<meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }}{% endif %}" />
-<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
