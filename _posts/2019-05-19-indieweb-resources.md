@@ -106,6 +106,12 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 * [indieauth.spec.indieweb.org/](https://indieauth.spec.indieweb.org/)
 * [https://indieweb.org/token-endpoint#Creating_a_token_endpoint](https://indieweb.org/token-endpoint#Creating_a_token_endpoint)
 
+### Install IndieAuth Server
+
+* [barryf/acquiescence](https://github.com/barryf/acquiescence)
+* [Inklings-io/selfauth](https://github.com/Inklings-io/selfauth)
+* [Build Your own](https://indieweb.org/authorization-endpoint)
+
 ## Micropub
 * [Micropub](https://indieweb.org/Micropub)
 * [voxpelli/webpage-micropub-to-github/](https://github.com/voxpelli/webpage-micropub-to-github/)
