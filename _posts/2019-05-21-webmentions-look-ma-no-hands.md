@@ -37,17 +37,26 @@ Also free, and if you don't feel like doing this part, the first 10 people who t
 
 ## Now What?
 
-well, I followed a few other steps besides this:
+well, I followed a few other steps. 
+
+First, I added all this to the head:
+
 
 ```
 
 	<link href="https://micro.blog/infominer" rel="me" />
     <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
-	<link rel="micropub" href="https://infomicro.herokuapp.com/api/webmention" />
+    <link rel="micropub" href="https://infomicro.herokuapp.com/api/webmention" />
 	<link href="https://instagram.com/infominer33" rel="me">
 	<link href="https://infominer.id" rel="me"/>
-	<link rel="webmention" href="https://infomicro.herokuapp.com/api/webmention" />
+	<link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+	<link href="https://twitter.com/infominer33" rel="me">
+	<link href="https://github.com/infominer33" rel="me">
+	<link href="mailto:infominer@protonmail.com" rel="me">	
+	<link href="https://keybase.io/infominer" rel="me">
+    <link rel="pgpkey" href="https://infominer.id/indieweb/key.pub">
+	<link href="https://infomicro.herokuapp.com/" rel="me"/>
 
 ```
 
@@ -65,7 +74,7 @@ var sn = document.createElement("script"), s = document.getElementsByTagName("sc
 url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
 url = url && url[0] ? url[0].href : false;
 sn.type = "text/javascript"; sn.async = true;
-sn.src = "//infomicro.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
 s.parentNode.insertBefore(sn, s);
 }());
 </script>
