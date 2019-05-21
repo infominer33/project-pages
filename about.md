@@ -7,6 +7,9 @@ header-img: "img/home-bg.jpg"
 
 ## I'm pretty excited about Indieweb.
 
+<a href="https://micro.blog/infominer" rel="me">micro.blog/infominer</a>
+
+
 You can also check out some of my other work, where I'll be incorporating indieweb as able.
 
 * [InfoMine](https://infominer.id)

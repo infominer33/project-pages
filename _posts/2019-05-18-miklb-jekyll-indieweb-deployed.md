@@ -10,6 +10,9 @@ subtitle: A growing list of indieweb-related GitHub repositories
 
 [**UPDATE**] I'm testing a different theme, since that one doesn't really work and I can always switch later, since I don't think I really need this [project-pages](https://github.com/projectpages/project-pages/) theme personally, but I'm pretty sure I know someone who does.
 
+<a href="https://micro.blog/infominer" rel="me">micro.blog/infominer</a>
+
+
 ---
 
 Welcome to an instance of [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb).

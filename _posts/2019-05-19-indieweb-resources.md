@@ -10,6 +10,9 @@ subtitle: To Become An Extensive Collection
 
 ![](https://imgur.com/ahnVZ9tl.png)
 
+<a href="https://micro.blog/infominer" rel="me">micro.blog/infominer</a>
+
+
 I was using [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb), but ran into some bugs and found that a new release is coming soon:
 
 [![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
