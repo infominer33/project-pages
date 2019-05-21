@@ -15,14 +15,13 @@
 	<link rel='shortcut icon' type='image/png' href='favicon.png' />
     <!-- Indieweb -->
 	<link href="https://micro.blog/infominer" rel="me" />
-	<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
     <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
-	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">  
-	<link rel="micropub" href="https://infomicro.herokuapp.com/">
+	<link rel="micropub" href="https://infomicro.herokuapp.com/api/webmention" />
 	<link href="https://instagram.com/infominer33" rel="me">
 	<link href="https://infominer.id" rel="me"/>
-
+	<link rel="webmention" href="https://infomicro.herokuapp.com/api/webmention" />
+	
 	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
