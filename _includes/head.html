@@ -16,8 +16,8 @@
     <!-- Indieweb -->
 	<link href="https://micro.blog/infominer" rel="me" />
 	<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
-    <link rel="token_endpoint" href="https://micro.blog/indieauth/token" /> 
-
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+	
 	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
