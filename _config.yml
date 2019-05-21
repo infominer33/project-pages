@@ -7,7 +7,7 @@ url: "https://infominer.id"
 
 
 # Secondary Parameters
-baseurl: "/indieweb"
+baseurl: "indieweb"
 header-img: "img/playing-with-indieweb.png"
 headercolor: "#FFFFFF"
 logo: "https://infominer.id/indieweb/info.gif"
