@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indieweb Github Repositories"
-description: "A list of every indieweb related GitHub repositories I can find."
+description: "An Arrangement of Indieweb related GitHub Repositories."
 date: "2019-05-19"
 tags: indieweb github-pages resources github jekyll static-sites
 subtitle: A growing list of indieweb-related GitHub repositories

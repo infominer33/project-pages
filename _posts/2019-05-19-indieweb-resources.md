@@ -31,7 +31,7 @@ I cover most anything you'd need to get started with GitHub Pages in:
 
 <p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
 
-
+## Taking Back Your Content
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
