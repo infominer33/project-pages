@@ -2,6 +2,7 @@
 layout: post
 title: Indieweb Resources
 date: "2019-05-19"
+permalink: resources/
 ---
 
 I got this Indieweb Jekyll Theme, here:
