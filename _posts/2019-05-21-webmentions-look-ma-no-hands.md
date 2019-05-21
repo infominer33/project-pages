@@ -15,8 +15,7 @@ category: indieweb
 <div class="h-entry">
   <li><a class="u-in-reply-to"  href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
 
-  <p class="e-content">Thanks for this cool instructional!</p>
-  <p class="e-content">Checkout <a href="https://infominer.id/indieweb/github/">indieweb/github</a> for an Awesome Collection of Indieweb GitHub Repositories.</p>
+  <p class="e-content">Thanks for this cool instructional!<br/><br/>Checkout <a href="https://infominer.id/indieweb/github/">indieweb/github</a> for an Awesome Collection of Indieweb GitHub Repositories.</p>
 </div>
 
  
