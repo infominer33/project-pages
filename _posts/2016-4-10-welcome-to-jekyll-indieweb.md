@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Welcome to Jekyll-Indieweb"
-tags:
- - indieweb
- - Jekyll
+tags: indieweb jekyll
 date: 2016-4-10
 ---
 

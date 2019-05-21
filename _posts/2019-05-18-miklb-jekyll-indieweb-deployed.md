@@ -7,6 +7,8 @@ categories:
   - indieweb
   - update
 og_image: https://infominer.id/indieweb/indieweb-willow-brugh.jpg
+tags: indieweb github jekyll depreciated
+subtitle: A growing list of indieweb-related GitHub repositories
 ---
 
 Welcome to an instance of [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb).
