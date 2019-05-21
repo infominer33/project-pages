@@ -3,8 +3,9 @@
 
 # GitHub-Pages IndieWeb Quickstart
 
-I was using [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb), which this repository and the website it supports intend to expand upon. That theme is buggy and a new release is coming soon. You can see that implementation published at [infominer.id/indieweb-old](https://infominer.id/indieweb-old)
+I was using [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb). You can visit my exploration if it at [infominer.id/indieweb-old](https://infominer.id/indieweb-old). 
 
+That theme is buggy (probably because it was built a few versions of gh-pages\jekyll ago)and a new release is coming soon. 
 
 [![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
 
