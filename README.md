@@ -1,8 +1,22 @@
-# Project Pages
+![](img/indieweb-willow-brugh.jpg)
+*Source: [Willow Brugh](https://www.flickr.com/photos/willowbl00/13199772894) - [BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
+
+# GitHub-Pages IndieWeb Quickstart
+
+I was using [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb). You can visit my exploration if it at [infominer.id/indieweb-old](https://infominer.id/indieweb-old). 
+
+That theme is buggy (probably because it was built a few versions of gh-pages\jekyll ago)and a new release is coming soon. 
+
+[![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
+
+
+Now that I have a solid theme under me, I can experiment with webmentions and other features of indieweb, here. 
+
+## Project Pages
 
 Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](https://github.com/projectpages/project-pages/wiki/).
 
-# Nav Bar Jumbles
+## Nav Bar Jumbles
 
 If you have seemingly random pages popping up on your Nav Bar recently, this is due to the fact that GitHub/Jekyll changed a fundemental rule they used to render pages. 
 
