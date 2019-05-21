@@ -6,6 +6,7 @@ date: "2019-05-19"
 tags: indieweb github-pages resources github jekyll static-sites
 subtitle: A growing list of indieweb-related GitHub repositories
 permalink: github/
+category: indieweb
 ---
 
 
