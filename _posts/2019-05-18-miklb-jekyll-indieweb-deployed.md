@@ -2,10 +2,7 @@
 layout: post
 title:  "Jekyll Indieweb Deployed!"
 date:   "2019-05-19"
-categories: 
-  - jekyll 
-  - indieweb
-  - update
+categories: jekyll indieweb update
 og_image: https://infominer.id/indieweb/indieweb-willow-brugh.jpg
 tags: indieweb github jekyll depreciated
 subtitle: A growing list of indieweb-related GitHub repositories

@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to Jekyll-Indieweb"
 tags: indieweb jekyll
+categories: jekyll indieweb
 date: 2016-4-10
 ---
 
