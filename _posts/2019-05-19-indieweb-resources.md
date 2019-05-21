@@ -80,6 +80,7 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 
 * [https://micropublish.net/](https://micropublish.net/)
 * [https://quill.p3k.io/](https://quill.p3k.io/)
+* [https://omnibear.com/](https://omnibear.com/)
 
 ## Static Sites
 
