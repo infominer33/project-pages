@@ -2,7 +2,7 @@
 layout: post
 title: "Webmentions - Look Ma, No Hands!"
 description: "A try at Using Webmentions."
-date: "2019-05-19"
+date: "2019-05-21"
 tags: indieweb github-pages resources github jekyll static-sites
 subtitle: "A first attempt at using webmentions."
 permalink: webmentions/
@@ -23,6 +23,9 @@ category: indieweb
   <li><a class="u-in-reply-to"  href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
 
   <p class="e-content">Thanks for this cool instructional!<br/><br/>Checkout <a href="https://infominer.id/indieweb/github/">indieweb/github</a> for an Awesome Collection of Indieweb GitHub Repositories.</p>
+
+  <a href="https://infominer.id/indieweb/webmentions/" class="u-url">
+  <time class="dt-published" datetime="2019-05-21">May 05, 2019</time></a>
 </div>
 
  
