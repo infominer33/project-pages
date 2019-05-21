@@ -101,6 +101,9 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 * [IndieAuth](https://indieweb.org/IndieAuth)
 * [IndieAuth with YubiKey](https://herestomwiththeweather.com/2017/09/24/indieauth-with-yubikey/)
 * [https://indielogin.com/setup](https://indielogin.com/setup)
+* [tokens.indieauth.com/](https://tokens.indieauth.com/)
+* [indieauth.spec.indieweb.org/](https://indieauth.spec.indieweb.org/)
+* [https://indieweb.org/token-endpoint#Creating_a_token_endpoint](https://indieweb.org/token-endpoint#Creating_a_token_endpoint)
 
 ## Micropub
 * [Micropub](https://indieweb.org/Micropub)
@@ -108,6 +111,7 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
   * [bmann/microglue/issues/5 - Getting micropub working](https://github.com/bmann/microglue/issues/5#issuecomment-425662101)
 * [muan/micropub-content](https://github.com/muan/micropub-content)
 * [Micropub Properties for Indiebookclub/](https://gregorlove.com/2018/07/micropub-properties-for-indiebookclub/)
+* [indieweb.org/micropub-endpoint](https://indieweb.org/micropub-endpoint)
 
 ## Chat
 
