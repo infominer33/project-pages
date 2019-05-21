@@ -31,11 +31,13 @@ I cover most anything you'd need to get started with GitHub Pages in:
 
 ## Taking Back Your Content
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div class="h-entry">
+  <ul><li><a class="u-in-reply-to" "https://aaronparecki.com/2018/12/15/14/indieweb">https://aaronparecki.com/2018/12/15/14/indieweb</a></li></ul>
 
-  * [https://aaronparecki.com/2018/12/15/14/indieweb](https://aaronparecki.com/2018/12/15/14/indieweb)
+  <p class="e-content"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-At the end of that video, we are directed to [Your First Webmention](https://aaronparecki.com/2018/06/30/11/your-first-webmention). 
+  <p class="e-content">At the end of that video, we are directed to <a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Your First Webmention</a>. </p>
+</div>
 
 ## Resources
 [A presentation at Northern Ireland Developer Conference](https://noti.st/srushe/7D5URN) in June 2018 in Belfast, UK by Stephen Rushe.
