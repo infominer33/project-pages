@@ -8,6 +8,10 @@ tags: indieweb github jekyll depreciated
 subtitle: A growing list of indieweb-related GitHub repositories
 ---
 
+[**UPDATE**] I'm testing a different theme, since that one doesn't really work and I can always switch later, since I don't think I really need this [project-pages](https://github.com/projectpages/project-pages/) theme personally, but I'm pretty sure I know someone who does.
+
+---
+
 Welcome to an instance of [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb).
 
 To get to this point, I forked the repo, changed over to the `gh-pages` branch and ran `bundle update`, `bundle install`, and `bundle exec jekyll serve`.
@@ -26,4 +30,3 @@ I will offer you a word of caution, this project in its current state is finnick
 
 [![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
 
-[**UPDATE**] I'm testing a different theme, since that one doesn't really work and I can always switch later, since I don't think I really need this [project-pages](https://github.com/projectpages/project-pages/) theme personally, but I'm pretty sure I know someone who does.
