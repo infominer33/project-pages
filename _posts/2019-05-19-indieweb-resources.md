@@ -19,12 +19,17 @@ I'm only guessing that some indieweb folk might appreciate:
 
 > Project-Pages also includes advanced layouts for the coding scientist. MATLAB and Jupyter layouts provide a framework for direct to post functionality. Surface and Projector layouts provide 3D visualization methods.
 
-<p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
 
 I cover most anything you'd need to get started with GitHub Pages in:
 
 * [infominer.id/web-work/github-pages-starter-pack](https://infominer.id/web-work/github-pages-starter-pack)
 
+
+## Playing with the Indieweb
+
+[A presentation at Northern Ireland Developer Conference](https://noti.st/srushe/7D5URN) in June 2018 in Belfast, UK by Stephen Rushe.
+
+<p data-notist="srushe/7D5URN">View <a href="https://noti.st/srushe/7D5URN">Playing with the Indieweb</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
