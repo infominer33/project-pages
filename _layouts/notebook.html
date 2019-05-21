@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');">
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -40,7 +40,7 @@ layout: default
 	<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
 	
 	<div class="notepad-index-post-tags" style="">
-	{% for tag in post.tags %}<a href="{{ site.baseurl }}search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div> 
 	
 			{% for member in site.data.members %}
@@ -105,7 +105,7 @@ layout: default
 		<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
 		
 		<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 		</div> 
 		
 		{% assign relevantpostcount = 1 %}
@@ -127,7 +127,7 @@ layout: default
 		<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
 		
 		<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 		</div> 
 		
 		{% assign relevantpostcount = 2 %}
@@ -188,8 +188,8 @@ layout: default
 {% endcapture %}
 
 {% if page.visualworkflow == true %}
-<script src="{{ site.baseurl }}js/mermaid.min.js"></script>
-<link rel="stylesheet" href="{{ site.baseurl }}css/mermaid.forest.css">
+<script src="{{ site.baseurl }}/js/mermaid.min.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/mermaid.forest.css">
 <script>mermaid.initialize({startOnLoad:true});</script>
 
 <!-- Get Content for This Post and Split at Pound Signs to Find Headers -->
