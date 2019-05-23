@@ -10,8 +10,6 @@ category: indieweb
 ---
 
 
-**Note, I've [taken a break](https://infominer.id/web-work/) from indieweb for a couple days. Be back soon.**
-
 ## Edit-Test
 
 
