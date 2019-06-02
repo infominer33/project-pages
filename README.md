@@ -1,7 +1,9 @@
+# Indieweb content moved to [project pages](http://infominer.id/web-work/tags/indieweb/)
+
 ![](img/indieweb-willow-brugh.jpg)
 *Source: [Willow Brugh](https://www.flickr.com/photos/willowbl00/13199772894) - [BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
-# GitHub-Pages IndieWeb Quickstart
+## GitHub-Pages IndieWeb Quickstart -DEPRECIATED
 
 I was using [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb). You can visit my exploration if it at [infominer.id/indieweb-old](https://infominer.id/indieweb-old). 
 
