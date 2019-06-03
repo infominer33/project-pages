@@ -3,7 +3,6 @@ title: "GitHub Pages for an Indyweb"
 description: "Indieweb Resource Index"
 url: "https://infominer.id"
 
-plugins: jekyll-redirect-from
 
 # Secondary Parameters
 baseurl: "/indieweb"
@@ -17,6 +16,8 @@ project_repository: indieweb
 disqus_shortname: #project-pages
 g-analytics: UA-132558656-1
 altmetric: true
+
+plugins: jekyll-redirect-from
 
 # Build settings
 gems: [jekyll-paginate]
